@@ -5,6 +5,7 @@ Pink
 Orange
 Blue
 Green
+Indigo
 Unicorm
 Yellow
 Red
